@@ -1,4 +1,7 @@
 # Angular Seed
+<p align="center">
+  <img alt="Angular Seed Login" src="https://media.giphy.com/media/26u4nMREc7nwHJUQ0/giphy.gif">
+</p>
 
 ## [API Doc](https://documenter.getpostman.com/view/1691659/angular-seed/77mY1dq)
 
