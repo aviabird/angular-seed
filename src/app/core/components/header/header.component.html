@@ -1,0 +1,27 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <nav class="navbar navbar-expand-lg navbar-light bg-white">
+        <a class="navbar-brand text-info" routerLink="/">
+          <i class="d-inline-block align-top aviabird-logo"></i>
+          &nbsp; Angular Seed
+        </a>
+        <div class="btn-group ml-auto" dropdown>
+          <button dropdownToggle type="button" class="navbar-toggler btn-sm">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <ul *dropdownMenu class="dropdown-menu left" role="menu">
+            <li role="menuitem"><a class="nav-link" [hidden]="!isLoggedIn" (click)="logout()">Logout</a></li>
+          </ul>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarText">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" [hidden]="!isLoggedIn" (click)="logout()">Logout</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+  </div>
+</div>
