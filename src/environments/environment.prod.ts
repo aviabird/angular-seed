@@ -1,4 +1,4 @@
 export const environment = {
-  API_ENDPOINT: 'http://localhost:3000/',
+  API_ENDPOINT: 'https://we-care-api.herokuapp.com/',
   production: true
 };
