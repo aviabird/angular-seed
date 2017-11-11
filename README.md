@@ -1,4 +1,16 @@
-# Angular Seed
+<p align="center">
+  <a href="https://ng-ngrx-seed.firebaseapp.com/" target='_blank'>
+    <img alt="Angular Seed Logo" title="AngularSeed Logo" src="https://res.cloudinary.com/aviabird/image/upload/v1510377563/angular-seed/logo.png" width="200">
+  </a>
+</p>
+
+<p align="center">
+  Angular Seed Plug and play Seed application built with ❤️  using Angular5, Redux/ngrx-store4, Observables & ImmutableJs.
+</p>
+
+<p align="center">
+  <a href="https://ng-ngrx-seed.firebaseapp.com/" target='_blank'>Check demo</a> | <a href="https://aviabird.github.io/angular-seed/" target="_blank">Docs </a>
+</p>
 
 ## [API Doc](https://documenter.getpostman.com/view/1691659/angular-seed/77mY1dq)
 
@@ -36,3 +48,23 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Who are we?
+
+We are [Aviabird Technologies](https://aviabird.com).
+
+__We love to create awesome Web & Mobile products.__
+
+__We are very proud of our work.__
+
+We love technologies like Golang, Elixir, Scala, Ruby, Javascript, Typescript, Swift, Java.
+
+We love some frameworks too:-
+* Ruby On Rails
+* Phoenix/Elixir framework.
+* Spring framework.
+* AngularJs (1.x+ & 2.x+)
+* ReactJs
+* BackboneJs
+
+### We are avialible for hire
