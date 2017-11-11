@@ -26,8 +26,8 @@ export class LoginFormComponent implements OnInit {
   @Output() submitted = new EventEmitter<Authenticate>();
 
   form: FormGroup = this.fb.group({
-    username: ['', Validators.required],
-    password: ['', Validators.required]
+    username: ['admin1@test.com', Validators.required],
+    password: ['12345678', Validators.required]
   });
 
 
